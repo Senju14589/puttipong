@@ -14,7 +14,7 @@ body{
   height: 100vh;
   overflow: hidden; 
   padding: 10px;
-  background: linear-gradient(to bottom, #f0f1f3 0%, #1b1b1b 100%);
+  background-image:url('https://wallpaperaccess.com/full/1190067.jpg');
 }
 .wrapper{
   background: #fff;
