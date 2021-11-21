@@ -38,6 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # 935304 Web Application 
 
+<div class="profile mr-3"><img src="img/DSC_0778.jpg" alt="..." width="300" class="rounded mb-2 img-thumbnail"></div>
 <div class="card" style="width: 18rem;">
   <div class="card-body">
     <h5 class="card-title">แนะนำตัว </h5>
@@ -45,9 +46,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     <h5 class="card-title">รหัส 623410008-8 </h5>
     <h5 class="card-title">สาขา CIS ปีที่3</h5>
     <h5 class="card-title">ช่องทางติดต่อ </h5>
-        <a href="https://www.facebook.com/puttipong.saksaen/">Facebook</a>
-        <h5 class="card-title">------------------------------------------------------</h5>
-        
+        <a href="https://www.facebook.com/puttipong.saksaen/">Facebook</a> 
   </div>
 </div>
 
