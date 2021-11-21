@@ -37,11 +37,20 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
 
 # 935304 Web Application 
-<!-- <a href="aboutme.html">About me</a> -->
+
 <div class="card" style="width: 18rem;">
   <div class="card-body">
     <h5 class="card-title">About me </h5>
         <a href="aboutme.html">งาน About me</a>
+        <h5 class="card-title">------------------------------------------------------</h5>
+  </div>
+</div>
+
+
+<div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">3D training </h5>
+        <a href="model/index.html">งาน 3D training</a>
         <h5 class="card-title">------------------------------------------------------</h5>
   </div>
 </div>
