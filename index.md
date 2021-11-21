@@ -38,6 +38,16 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # 935304 Web Application 
 
+<div class="row py-5 px-4">
+    <div class="col-md-8 mx-auto">
+        <!-- Profile widget -->
+        <div class="bg-white shadow rounded overflow-hidden">
+            <div class="px-4 pt-0 pb-4 cover">
+                <div class="media align-items-end profile-head">
+                    <div class="profile mr-3"><img src="img/DSC_3115.jpg" alt="..." width="300" class="rounded mb-2 img-thumbnail"></div>
+                   
+</div>
+
 <div class="card" style="width: 18rem;">
   <div class="card-body">
     <h5 class="card-title">About me </h5>
