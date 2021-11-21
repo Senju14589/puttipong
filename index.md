@@ -89,8 +89,15 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <div class="card" style="width: 18rem;">
   <div class="card-body">
     <h5 class="card-title">React Shopping Cart</h5>
-        <a href="https://github.com/Senju14589/small-shopping-cart">งาน
-React Shopping Cart</a>
+        <a href="https://github.com/Senju14589/small-shopping-cart">งานReact Shopping Cart</a>
+        <h5 class="card-title">------------------------------------------------------</h5>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">React-Todo-Application</h5>
+        <a href="https://github.com/Senju14589/small-shopping-cart">งานReact-Todo-Application</a>
         <h5 class="card-title">------------------------------------------------------</h5>
   </div>
 </div>
