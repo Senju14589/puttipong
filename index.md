@@ -72,8 +72,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <div class="card" style="width: 18rem;">
   <div class="card-body">
-    <h5 class="card-title">Todo App </h5>
-        <a href="todojs/index.html">งาน Tado app</a>
+    <h5 class="card-title">TODO application on JS with DOM </h5>
+        <a href="todojs/index.html">งาน TODO application on JS with DOM</a>
         <h5 class="card-title">------------------------------------------------------</h5>
   </div>
 </div>
