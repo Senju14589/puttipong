@@ -109,11 +109,3 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
         <h5 class="card-title">------------------------------------------------------</h5>
   </div>
 </div>
-
-<div class="card" style="width: 18rem;">
-  <div class="card-body">
-    <h5 class="card-title">Final Project</h5>
-        <a href="https://github.com/Senju14589/FinalProject">งานFinalProject</a>
-        <h5 class="card-title">------------------------------------------------------</h5>
-  </div>
-</div>
